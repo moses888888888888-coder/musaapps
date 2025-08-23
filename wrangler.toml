@@ -1,0 +1,9 @@
+name = "my-worker"
+type = "javascript"
+
+account_id = "7f2090043011294cbda14d923c897923"
+workers_dev = true
+compatibility_date = "2025-08-23"
+
+[build]
+upload_format = "modules"
