@@ -1,9 +1,9 @@
-name = "NewLife25"
+name = "mussaapps"
 type = "javascript"
 
 account_id = "7f2090043011294cbda14d923c897923"
 workers_dev = true
-compatibility_date = "2025-08-23"
+compatibility_date = "2025-08-22"
 
 [build]
 upload_format = "modules"
